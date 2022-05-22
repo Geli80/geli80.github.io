@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+
+h1 {
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+}
+h5 {
+    font-family: 'Roboto', sans-serif;
+    color: rgb(97, 97, 97);
+    text-align: center;
+    font-weight: 650;
+    font-size: 15px;
+}
+ul {
+    font-family: 'Roboto', sans-serif;
+    color: rgb(97, 97, 97);
+    text-align: center;
+    font-size: 25px;
+    font-weight: 550;
+    margin-right: 40px;
+}
+ol {
+    font-family: 'Roboto', sans-serif;
+    color: rgb(97, 97, 97);
+    text-align: center;
+    font-size: 25px;
+    font-weight: 550;
+    margin-right: 40px;
+}
+h4 {
+    font-family: 'Roboto', sans-serif;
+    color: rgb(51, 128, 205);
+    text-align: center;
+    font-size: 25px;
+    font-weight: 850;
+}
+i {
+    font-weight: 850;
+}
+h2 {
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+}
+#copy {
+    color: brown;
+}
+
+#needUpperMargin {
+    margin-top: 10px;
+}
+h3 {
+    margin: 10px;
+    width: fit-content;
+}
+img {
+    width: 35%;
+}
+.sale1 {
+    background-color:aquamarine;
+    margin: 3%;
+    height: 200px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.338);
+}
+.sale2 {
+    background-color:rgb(0, 255, 170);
+    margin: 3%;
+    height: 300px;
+    text-align: right;
+    height: 200px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.338);
+}
+#fishimg {
+    /*box-shadow: 3px 5px 10px black;*/
+    background: transparent;
+    width:25%;
+    position:relative;
+    left:70%;
+}
+.notouch {
+    margin: 0px;
+    padding:0px;
+    margin:1%;
+}
+body {
+    margin:0px;
+}
+html {
+    background-color: rgb(255, 248, 240);
+}
