@@ -1,0 +1,32 @@
+@font-face {
+    font-family: "Jankart";
+    src: url("fonts/PlusJakartaSans-VariableFont_wght.ttf");
+    font-weight: 510;
+}
+
+@font-face {
+    font-family: "Jankart-light";
+    src: url("fonts/PlusJakartaSans-VariableFont_wght.ttf");
+    font-weight: 480;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+
+h1 {
+    color: rgba(69, 69, 255, 0.752);
+    font-family: "Jankart";
+    text-align: center;
+}
+
+p {
+    color: grey;
+    font-family: 'Roboto', "Jakarta-light";
+    text-align: center;
+    line-height: 15px;
+    font-size: 18px;
+}
+img {
+    width: 400px;
+    margin: 20px;
+}
+/*Text-transform: uppercase*/
